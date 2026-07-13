@@ -79,7 +79,7 @@ The high R² score confirms that HDI can be very accurately estimated using just
 ## 🔗 Links
 
 - **Live Application:** [Deployed on Render](#) <!-- paste your Render URL here -->
-- **GitHub Repository:** [github.com/farzana1234-csd/HDI-Prediction-System](https://github.com/farzana1234-csd/HDI-Prediction-System)
+- **GitHub Repository:** (https://github.com/248x5a4209-web/A-Comprehensive-Measure-of-Well-Being)
 
 ---
 

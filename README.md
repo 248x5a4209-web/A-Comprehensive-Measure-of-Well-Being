@@ -77,7 +77,7 @@ A-Comprehensive-Measure-of-Well-Being/
 ### Initialize the Application Environment
 ```bash
 # Clone the workspace repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/A-Comprehensive-Measure-of-Well-Being.git
+git clone https://github.com/248x5a4209-web/A-Comprehensive-Measure-of-Well-Being
 cd A-Comprehensive-Measure-of-Well-Being
 # Initialize and lock environment packages
 python -m venv venv
@@ -99,10 +99,10 @@ Through this engineering sprint, the following technical competencies were maste
  * ✔️ Robust Flask Full-Stack Web Architecture Routing.
  * ✔️ Interface Design utilizing advanced CSS variable configurations.
 ## 👥 Team Details
- * 👑 **Yamineeswari Karani** — *Team Lead*
- * 👤 **Srija Gudivaka** — *Member*
- * 👤 **Sravan Anand Karri** — *Member*
- * 👤 **Manaswini Sarva** — *Member*
- * 👤 **Sheik Raheema Raheema** — *Member*
+ * 👑 **Shaik Firthose Begum** — *Team Lead*
+ * 👤 **Shaik Yunus** — *Member*
+ * 👤 **Sudiparapu Saisushma** — *Member*
+ * 👤 **Jada Anuhya** — *Member*
+ * 👤 **Juvvi Naga Shiva Balaji** — *Member*
 ## 📝 Conclusion
 The Human Development Index Prediction System demonstrates the practical application of Machine Learning within global economic sectors. By combining predictive analytics with an optimized web interface, the system helps institutions make faster, data-driven decisions while reducing operational risks.
